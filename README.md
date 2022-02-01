@@ -10,7 +10,7 @@ For the analysis of the tweets I started with a basic, mostly cleaned, dataset o
 
 ## Business Problem & Understanding
 
-Covid-19 is a problem that does not need much introduction or explanantion, however, for this project I wanted to find if there was any correlation between twitter behavior and possible outbreaks. This is important to understand because this could help hospitals better prepare for a response to an outbreak. This could also be applicable to anybody wanting to avoid close contact with the disease, giving them warning beforehand, which they can then use to make more informed decisions on how to handle their day to day.
+Covid-19 is a problem that does not need much introduction or explanation, however, for this project I wanted to find if there was any correlation between twitter behavior and possible outbreaks. This is important to understand because this could help hospitals better prepare for a response to an outbreak. This could also be applicable to anybody wanting to avoid close contact with the disease, giving them warning beforehand, which they can then use to make more informed decisions on how to handle their day to day.
 
 The motivation for the project is quite clear, being able to accurately predict when a covid-19 outbreak is going to happen is essential to everyday life. at the current time, there have been over 71 Million confirmed cases and over 850k deaths, JUST in the US. Had our response been better equipped, or more rapid, there is not only a solid possibility, but a certantity that many of those people would have survived. 
 
